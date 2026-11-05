@@ -1,6 +1,6 @@
-#what is programming?
+##what is programming?
     progrmming is a set of instruction that can solve a complex problem.In easy way we can say that how human and computer can talk to each other
-#real life example:
+##real life example:
     1. ATM Machine
         When you withdraw money:
         - Enter your PIN.
