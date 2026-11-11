@@ -1,1 +1,12 @@
+Research Question
 
+Question: Name one company that uses Python in production. What do they use it for specifically?
+
+Answer: Meta (Instagram)
+
+Meta uses Python extensively across its products, including Instagram. Instagram uses Python with the Django framework for its backend server, which handles application logic and requests from users. Meta also uses Python for infrastructure, configuration systems and artificial intelligence research.
+
+Official sources:
+
+Meta Engineering – Writing and Linting Python at Scale
+Meta Engineering – Instagram and Python
